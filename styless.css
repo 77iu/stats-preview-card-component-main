@@ -150,7 +150,7 @@ h1 span{
 
 @media only screen and (max-width: 376px){ 
     .contenedor{
-       max-width: 375px;
+        max-width: 375px;
         min-height: 956px;
         background-color: hsl(233, 47%, 7%);
         margin: auto;
@@ -214,7 +214,7 @@ h1 span{
         }
         .infoAll h1{
         font-size: 24px;
-        color: rgba(255, 255, 255, 0.607);
+        color: hsl(0, 0%, 100%);
         }
         .infoAll p{
             text-transform: uppercase;
