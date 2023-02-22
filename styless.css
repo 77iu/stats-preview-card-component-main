@@ -152,7 +152,7 @@ h1 span{
 
 @media only screen and (max-width: 376px){ 
     .contenedor{
-       max-width: 375px;
+       max-width: 360px;
        height: 956px;
         background-color: hsl(233, 47%, 7%);
         margin: auto;
