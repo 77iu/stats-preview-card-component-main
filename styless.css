@@ -150,7 +150,7 @@ h1 span{
     }
 
 
-@media only screen and (max-width: 376px){ 
+@media only screen and (max-width: 500px){ 
     .contenedor{
        max-width: 360px;
        height: 956px;
